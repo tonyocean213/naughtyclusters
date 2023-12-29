@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="185.326" height="185.326" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xml:name="Artboard 1">
+  <defs>
+    <clipPath id="path0">
+      <path d="M0.0 0.0 L0.0 192.0 192.0 192.0 192.0 0.0 0.0 0.0 Z" clip-rule="evenodd"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.0 0.0 -0.0 -1.0 0.0 192.0) ">
+    <g clip-path="url(#path0)" id="">
+      <g id="Layer_1">
+        <path d="M185.326 96.0 C185.326 46.6666 145.3334 6.674 96.0 6.674 S6.674 46.6666 6.674 96.0 46.6666 185.326 96.0 185.326 185.326 145.3334 185.326 96.0 Z" fill="#000000" fill-rule="nonzero" id=""/>
+        <text x="0.0" y="0.0" fill="#FFFFFF" font-family="Cheee Variable" font-size="150.5552" kerning="auto" letter-spacing="0.0" word-spacing="0.0" transform="translate(43.60031327 47.37068333) scale(1.0 -1.0) matrix(1.21693397 0.0 0.0 1.0 0.0 0.0) " id="">N</text>
+        <text x="0.0" y="0.0" fill="#000000" font-family="Cheee Variable" font-size="21.1819" kerning="auto" letter-spacing="0.0" word-spacing="0.0" transform="translate(118.73751003 118.30295758) scale(1.0 -1.0) matrix(0.97454846 0.0 0.0 1.0 0.0 0.0) " id="">c</text>
+      </g>
+    </g>
+  </g>
+</svg>
